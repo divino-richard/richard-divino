@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/richard-divino/static/css/main.56e7e2d8.css",
+    "main.js": "/richard-divino/static/js/main.bf19548f.js",
+    "static/media/me.jpg": "/richard-divino/static/media/me.90fc2756ecebc8e519a3.jpg",
+    "index.html": "/richard-divino/index.html",
+    "main.56e7e2d8.css.map": "/richard-divino/static/css/main.56e7e2d8.css.map",
+    "main.bf19548f.js.map": "/richard-divino/static/js/main.bf19548f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e7e2d8.css",
+    "static/js/main.bf19548f.js"
+  ]
+}
